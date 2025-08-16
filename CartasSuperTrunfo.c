@@ -99,5 +99,9 @@ int main(){
     printf("Total de pontos turisticos: %d \n", Pontos_turisticos2);
 
 
+
+    printf("Novo commit \n");
+
+
     return 0;
 }
